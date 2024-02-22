@@ -1,4 +1,5 @@
 body {
+    min-height: 100vh;
     background: #ee9ca7;
     /* fallback for old browsers */
     background: -webkit-linear-gradient(to bottom, #ffdde1, #ee9ca7);
